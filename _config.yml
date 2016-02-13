@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.296796
+color:
+  lightness: 0.6517707
+  brandStrength: 0.2369309
+  saturation: 1
+  rhythmicContrast: 0.5101181
+  brandColors:
+    - '#4B7692'
+    - '#31495D'
+    - '#77ACCF'
+    - '#A4D9F9'
+    - '#16150E'
+name: 'Steamdigit '
